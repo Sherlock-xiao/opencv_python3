@@ -1,0 +1,2 @@
+user.name=sherlock-xiao
+user.email=sherlock-xiao@foxmail.com
